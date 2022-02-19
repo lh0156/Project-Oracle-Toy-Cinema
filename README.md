@@ -1,7 +1,7 @@
 # Project-Oracle-Toy-Cinema
 <div>
 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fytn.co.kr%2F_ln%2F0115_201906230333522513&psig=AOvVaw3j5kBfzE9Z4oPEvfGC59zR&ust=1645327915922000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDPxqHqivYCFQAAAAAdAAAAABAD">
+  <img src="https://image.ytn.co.kr/general/jpg/2019/0623/201906230333522513_t.jpg">
 
   오라클의 숙련도를 높이기 위한 토이 프로젝트입니다.
   <br>
