@@ -1,5 +1,5 @@
 # Project-Oracle-Toy-Cinema
-<div style="text-align: "center">
+<div>
 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
 
@@ -7,9 +7,9 @@
   영화 데이터들을 바탕으로 영화관에서 실제 이루어지는 로직들을 구현하려고 합니다.
   <br>
                                                                                                      
-  예상 종료 기한은 2월 28일이며
-  2월 17일18일 요구사항 명세서 작성 
+  예상 종료 기한: 2022.02.28
+  2022.02.17~18: 요구사항 명세서 작성 
   <br>
-  2월 19일    ERD작성 진행중입니다. 
+  2022.02.19~: ERD작성 진행중 
   
-<div>
+</div>
