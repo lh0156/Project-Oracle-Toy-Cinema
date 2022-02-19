@@ -1,9 +1,12 @@
 # Project-Oracle-Toy-Cinema
 <div>
 
-  <img src="https://image.ytn.co.kr/general/jpg/2019/0623/201906230333522513_t.jpg">
+  <img src="https://assets-global.website-files.com/5e4f771ff45e4c54cb345de3/61401cbff9b93566a1e2d6b0_%2525EB%252589%2525B4%2525EC%25258A%2525A4-%2525EA%2525B7%2525B8%2525EB%2525A6%2525AC%2525EB%252593%25259C-%2525EC%25259D%2525B4%2525EB%2525AF%2525B8%2525EC%2525A7%252580-(2).png">
 
+  <br>
+  
   오라클의 숙련도를 높이기 위한 토이 프로젝트입니다.
+  <br>
   <br>
   영화 데이터들을 바탕으로 영화관에서 실제 이루어지는 로직들을 구현하려고 합니다.
   <br>
