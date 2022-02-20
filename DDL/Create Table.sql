@@ -39,7 +39,7 @@ CREATE TABLE tblmovielist (
 	makeyear VARCHAR2(30),
 	makecontury VARCHAR2(100),
 	TYPE VARCHAR2(10),
-	ganre VARCHAR2(10),
+	ganre VARCHAR2(30),
 	makesituation VARCHAR2(10),
 	director VARCHAR2(100),
 	makecompany VARCHAR2(100)
@@ -59,7 +59,7 @@ CREATE TABLE tblincome (
 
 CREATE TABLE tblmarketrecord (
 
-	memseq VARCHAR2(30),
+	merseq VARCHAR2(30),
 	salestime DATE,
 	mlseq VARCHAR2(30)
 
@@ -100,15 +100,11 @@ CREATE TABLE tblemployeeinfo (
 CREATE TABLE tblemployeeinout (
 
 	eioseq VARCHAR2(30),
-	eqseq VARCHAR2(30),
+	epseq VARCHAR2(30),
 	workstarttime DATE,
 	workendtime date
 
 );
-
-
-
-
 
 
 
