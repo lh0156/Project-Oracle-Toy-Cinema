@@ -23,12 +23,12 @@
 
 
 
-### ERD 논리 구조
+  <h3>ERD 논리 구조</h3>
 
 ![스크린샷 2022-02-20 오후 10 33 01](https://user-images.githubusercontent.com/62834176/154845259-db7f8020-1c47-4310-b378-67dc2dcc30ba.png)
 
 <br>
-### ERD 물리 구조
+  <h3>ERD 물리 구조</h3>
 
 ![스크린샷 2022-02-20 오후 10 33 58](https://user-images.githubusercontent.com/62834176/154845265-42a9b38c-95be-4604-87d9-fa28bb84a86c.png)
 
