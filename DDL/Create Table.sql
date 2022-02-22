@@ -106,6 +106,7 @@ CREATE TABLE tblemployeeinout (
 
 );
 
-
+CREATE SEQUENC memberseq;
+CREATE SEQUENC 
 
 

@@ -13,8 +13,6 @@ ALTER TABLE tblmovierecord ADD constraint tblmovierecord_mrseq_pk PRIMARY KEY (m
 ALTER TABLE tblmovierecord ADD constraint tblmovierecord_mbseq_fk foreign KEY (mbseq) references tblMember (mbseq);
 ALTER TABLE tblmovierecord ADD constraint tblmovierecord_mlseq_fk foreign key (mlseq) references tblmovielist (mlseq);
 
-
-
 -- 회원 (tblmember)
 ALTER TABLE tblmember ADD constraint tblmember_mbseq_pk PRIMARY KEY (mbseq);
 
@@ -38,10 +36,9 @@ ALTER TABLE tblmarketrecord ADD constraint tblmarketrecord_mlseq_fk foreign key 
 ALTER TABLE tblQA ADD constraint tblQA_qaseq_pk primary key (qaseq);
 ALTER TABLE tblqa ADD constraint tblqa_mbseq_fk foreign key (mbseq) references tblmember(mbseq);
 
-
 -- 수입 (tblincome)
 ALTER TABLE tblincome ADD constraint tblincome_icseq_pk primary key (icseq);
-ALTER TABLE tblincome ADD CONSTRAINT tblincome_memseq_fk foreign key (merseq) references tblmarketrecord(merseq);
+ALTER TABLE tblincome ADD constraint tblincome_memseq_fk foreign key (merseq) references tblmarketrecord(merseq);
 ALTER TABLE tblincome ADD constraint tblincome_mrseq_fk foreign KEY (mrseq) references tblmovierecord(mrseq);
 
 
