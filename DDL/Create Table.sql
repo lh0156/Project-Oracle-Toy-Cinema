@@ -108,7 +108,8 @@ CREATE TABLE tblemployeeinout (
 
 
 -- 시퀀스 객체 생성
-CREATE SEQUENC memberseq;
-CREATE SEQUENC
+CREATE SEQUENCE memberseq;
+CREATE SEQUENCE employeeseq;
+
 
 
