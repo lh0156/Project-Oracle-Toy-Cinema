@@ -17,7 +17,11 @@ public class template {
     public static void main(String[] args) {
 
 
+        String start = "insert into tblemployeeinout values";
 
+        for (int i=0; i<1000; ++i){
+            System.out.printf("%s \n", start);
+        }
 
 
 
