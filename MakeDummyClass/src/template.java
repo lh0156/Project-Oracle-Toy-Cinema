@@ -19,11 +19,6 @@ public class template {
 
 
 
-        String tblmovielistStart = "insert into tblmovielist (mlseq, title, makeyear, makecountry, type, ganre, makesituation, director, makecompany) values";
-        String tblemployee = "insert into tblemployee values";
-
-        //INSERT INTO tblmember (mbseq, name, id, password, age, address, PHONE) values(memberseq.nextval, '엄윤섭', 'lh0156', '1q2w3e4r', 26, '서울시 관악구', '010-4562-3255');
-
 
 
     }
