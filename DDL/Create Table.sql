@@ -83,7 +83,8 @@ CREATE TABLE tblemployee(
 	password VARCHAR2(30),
 	grade VARCHAR2(30),
 	address VARCHAR2(100),
-	phone VARCHAR2(30)
+	phone VARCHAR2(30),
+	age NUMBER
 
 );
 

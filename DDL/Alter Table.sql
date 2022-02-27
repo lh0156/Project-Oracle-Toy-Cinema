@@ -44,6 +44,6 @@ ALTER TABLE tblincome ADD constraint tblincome_mrseq_fk foreign KEY (mrseq) refe
 
 
 
-
+ALTER session set NLS_DATE_FORMAT = 'DD/MM/RR HH:MI:SS'; 
 
 
