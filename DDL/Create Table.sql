@@ -36,15 +36,18 @@ CREATE TABLE tblmovielist (
 
 	mlseq VARCHAR2(30),
 	title VARCHAR2(100),
-	makeyear VARCHAR2(30),
+	makeyear VARCHAR2(50),
 	makecontury VARCHAR2(100),
-	TYPE VARCHAR2(10),
-	ganre VARCHAR2(30),
-	makesituation VARCHAR2(10),
+	TYPE VARCHAR2(100),
+	ganre VARCHAR2(100),
+	makesituation VARCHAR2(50),
 	director VARCHAR2(100),
 	makecompany VARCHAR2(100)
 
 );
+
+
+
 
 CREATE TABLE tblincome (
 
@@ -112,6 +115,8 @@ CREATE TABLE tblemployeeinout (
 CREATE SEQUENCE memberseq;
 CREATE SEQUENCE employeeseq;
 CREATE SEQUENCE epInoutseq;
+CREATE SEQUENCE movieseq;
+
 
 
 
