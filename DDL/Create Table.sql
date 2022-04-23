@@ -46,9 +46,6 @@ CREATE TABLE tblmovielist (
 
 );
 
-
-
-
 CREATE TABLE tblincome (
 
 	ICseq VARCHAR2(30),
